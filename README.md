@@ -1,2 +1,5 @@
-# 30-Days-of-SQL
-0-day SQL challenge covering SQL from basics to advanced with daily practice, notes, and queries.
+# 30 Days of SQL
+
+This repository documents my 30-day journey learning SQL from basic to advanced.
+Each day includes notes and hands-on SQL queries.
+
